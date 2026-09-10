@@ -4,6 +4,9 @@
   1. [One set with a custom word order](documents/zines/nvc/el/custom).
   2. [One set with a title and sorted word order](documents/zines/nvc/el/sorted).
 
+## Contact
+
+You can contact me at this [email address](mailto:yiannisbe+publishing@gmail.com).
 
 ## License
 
