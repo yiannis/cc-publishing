@@ -1,8 +1,8 @@
-## Files
+## Download links
 
-- NVC zines: [A4 page 8 panel fold template in Greek](documents/zines/nvc/el/).
-  1. One set with a custom word order.
-  2. One set with a title and sorted word order.
+- NVC zines: A4 page 8 panel fold template PDF in Greek.
+  1. [One set with a custom word order](documents/zines/nvc/el/custom).
+  2. [One set with a title and sorted word order](documents/zines/nvc/el/sorted).
 
 
 ## License
